@@ -1,0 +1,6 @@
+id,lot,risque,probabilite,impact,plan_action
+R1,L2,Disponibilité des exploitants pour la recette TMS,4,3,Créneaux de recette réservés par agence
+R2,L6,Flux non documentés vers l'ancien logiciel,4,3,Cartographie des interfaces + entretiens équipes
+R3,L4,Faible couverture réseau sur certaines tournées,3,3,Mode hors-ligne de l'application
+R4,L1,Qualité des données clients reprises,3,2,Contrôles automatisés avant migration
+R5,L5,Résistance au changement des équipes terrain,2,3,Référents par agence + formations courtes

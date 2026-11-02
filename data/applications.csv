@@ -1,0 +1,7 @@
+id,application,lot,cout_run_annuel,date_cible,etape,nb_dependances,dependances_traitees
+APP-01,EXPLOIT-2009 (ancien logiciel d'exploitation),L2,280000,2026-12-15,Migration données,6,4
+APP-02,FACTU-ACCESS (base de facturation),L1,95000,2026-09-30,Arrêté,3,3
+APP-03,Tableurs de planification partagés,L2,40000,2027-02-28,Analyse dépendances,5,1
+APP-04,Ancien serveur de reporting,L3,110000,2026-11-30,Gel fonctionnel,4,3
+APP-05,Boîtiers GPS ancienne génération,L4,72000,2026-08-31,Arrêté,2,2
+APP-06,Outil RH local,L1,58000,2027-03-31,Identifié,4,0

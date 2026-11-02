@@ -1,0 +1,9 @@
+id,lot,jalon,date_prevue,date_reelle,statut
+J1,L1,Paramétrage ERP validé,2026-03-31,2026-04-02,Terminé
+J2,L2,Pilote TMS sur l'agence de Lyon,2026-06-30,2026-08-04,Terminé
+J3,L3,Entrepôt de données en production,2026-07-15,2026-07-15,Terminé
+J4,L4,Bêta appli conducteurs,2026-05-31,2026-06-06,Terminé
+J5,L1,Bascule facturation sur l'ERP,2026-11-15,,En cours
+J6,L2,Généralisation TMS (toutes agences),2026-12-01,,En cours
+J7,L6,Arrêt de l'ancien logiciel d'exploitation,2026-12-15,,À risque
+J8,L3,Tableaux de bord direction,2027-01-15,,À venir

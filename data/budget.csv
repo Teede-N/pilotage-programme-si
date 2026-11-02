@@ -1,0 +1,73 @@
+lot,libelle,mois,prevu,engage,consomme
+L1,ERP Finance & facturation,2026-01,80000,93345.0,83655.0
+L1,ERP Finance & facturation,2026-02,89697,110674.0,95855.0
+L1,ERP Finance & facturation,2026-03,99394,110529.0,92389.0
+L1,ERP Finance & facturation,2026-04,109091,132069.0,113082.0
+L1,ERP Finance & facturation,2026-05,118788,136620.0,122249.0
+L1,ERP Finance & facturation,2026-06,128485,164272.0,138158.0
+L1,ERP Finance & facturation,2026-07,138182,167560.0,142797.0
+L1,ERP Finance & facturation,2026-08,147879,168983.0,155876.0
+L1,ERP Finance & facturation,2026-09,157576,175143.0,165295.0
+L1,ERP Finance & facturation,2026-10,167273,205893.0,179858.0
+L1,ERP Finance & facturation,2026-11,176970,,
+L1,ERP Finance & facturation,2026-12,186667,,
+L2,TMS – planification des tournées,2026-01,62500,75826.0,68734.0
+L2,TMS – planification des tournées,2026-02,70076,97723.0,82539.0
+L2,TMS – planification des tournées,2026-03,77652,91027.0,84347.0
+L2,TMS – planification des tournées,2026-04,85227,102614.0,97120.0
+L2,TMS – planification des tournées,2026-05,92803,121166.0,105137.0
+L2,TMS – planification des tournées,2026-06,100379,147421.0,123352.0
+L2,TMS – planification des tournées,2026-07,107955,129087.0,116760.0
+L2,TMS – planification des tournées,2026-08,115530,142555.0,132188.0
+L2,TMS – planification des tournées,2026-09,123106,152358.0,135869.0
+L2,TMS – planification des tournées,2026-10,130682,160004.0,139077.0
+L2,TMS – planification des tournées,2026-11,138258,,
+L2,TMS – planification des tournées,2026-12,145833,,
+L3,Plateforme data & reporting,2026-01,41000,47963.0,40823.0
+L3,Plateforme data & reporting,2026-02,45970,45571.0,41547.0
+L3,Plateforme data & reporting,2026-03,50939,55345.0,47275.0
+L3,Plateforme data & reporting,2026-04,55909,59020.0,53986.0
+L3,Plateforme data & reporting,2026-05,60879,65318.0,60990.0
+L3,Plateforme data & reporting,2026-06,65848,68701.0,65360.0
+L3,Plateforme data & reporting,2026-07,70818,79295.0,68968.0
+L3,Plateforme data & reporting,2026-08,75788,78728.0,67455.0
+L3,Plateforme data & reporting,2026-09,80758,85948.0,75704.0
+L3,Plateforme data & reporting,2026-10,85727,86619.0,81166.0
+L3,Plateforme data & reporting,2026-11,90697,,
+L3,Plateforme data & reporting,2026-12,95667,,
+L4,Application mobile conducteurs,2026-01,27000,33869.0,30222.0
+L4,Application mobile conducteurs,2026-02,30273,37783.0,32439.0
+L4,Application mobile conducteurs,2026-03,33545,44832.0,39568.0
+L4,Application mobile conducteurs,2026-04,36818,48873.0,44609.0
+L4,Application mobile conducteurs,2026-05,40091,51412.0,46088.0
+L4,Application mobile conducteurs,2026-06,43364,58800.0,52912.0
+L4,Application mobile conducteurs,2026-07,46636,55431.0,51084.0
+L4,Application mobile conducteurs,2026-08,49909,60846.0,55709.0
+L4,Application mobile conducteurs,2026-09,53182,72021.0,62666.0
+L4,Application mobile conducteurs,2026-10,56455,75474.0,64641.0
+L4,Application mobile conducteurs,2026-11,59727,,
+L4,Application mobile conducteurs,2026-12,63000,,
+L5,Conduite du changement & formation,2026-01,15500,17758.0,15985.0
+L5,Conduite du changement & formation,2026-02,17379,19110.0,17776.0
+L5,Conduite du changement & formation,2026-03,19258,20109.0,18908.0
+L5,Conduite du changement & formation,2026-04,21136,22243.0,19873.0
+L5,Conduite du changement & formation,2026-05,23015,25288.0,22475.0
+L5,Conduite du changement & formation,2026-06,24894,29430.0,25492.0
+L5,Conduite du changement & formation,2026-07,26773,30628.0,27663.0
+L5,Conduite du changement & formation,2026-08,28652,32099.0,28045.0
+L5,Conduite du changement & formation,2026-09,30530,29720.0,27955.0
+L5,Conduite du changement & formation,2026-10,32409,36146.0,30266.0
+L5,Conduite du changement & formation,2026-11,34288,,
+L5,Conduite du changement & formation,2026-12,36167,,
+L6,Décommissionnement de l'ancien SI,2026-01,22500,24385.0,21114.0
+L6,Décommissionnement de l'ancien SI,2026-02,25227,27219.0,22770.0
+L6,Décommissionnement de l'ancien SI,2026-03,27955,29239.0,25260.0
+L6,Décommissionnement de l'ancien SI,2026-04,30682,29354.0,26910.0
+L6,Décommissionnement de l'ancien SI,2026-05,33409,34704.0,29276.0
+L6,Décommissionnement de l'ancien SI,2026-06,36136,37426.0,34642.0
+L6,Décommissionnement de l'ancien SI,2026-07,38864,41532.0,36531.0
+L6,Décommissionnement de l'ancien SI,2026-08,41591,43754.0,37127.0
+L6,Décommissionnement de l'ancien SI,2026-09,44318,47382.0,40920.0
+L6,Décommissionnement de l'ancien SI,2026-10,47045,50095.0,43785.0
+L6,Décommissionnement de l'ancien SI,2026-11,49773,,
+L6,Décommissionnement de l'ancien SI,2026-12,52500,,
